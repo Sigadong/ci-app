@@ -1,0 +1,32 @@
+A. KENAPA MVC
+    * Organisasi dan Struktur Kode
+    * Pemisahan Logic dan tampilan
+    * Perawatan Kode
+    * Implementasi Konsep OOP yang sudah dipelajari
+    * Digunakan oleh banyak Web Aplication Framework
+
+B. FRAMEWORK MVC. 
+    Framework yg menggunakan konsep MVC untuk berbagai bahasa.
+    Bahasa:           Framework:
+    PHP        ->     Codeigniter, Laravel, Yii, dll
+    Java       ->     Spring MVC, JSF, Struts, dll
+    Python     ->     Django, CherryPy, dll
+    Ruby       ->     Ruby On Rails, Sinatra, dll
+    Javascript ->     Angular JS, Backbone.js, dll
+
+
+C. PERAN MVC
+    #MODEL
+        * Representasi Pengetahuan
+        * Mengelola Data
+        * Logika Bisnis
+
+    #VIEW
+        * Output, Apa yg dilihat Oleh User
+        * Representasi visual dari Model
+        * Lapisan Presentasi
+
+    #CONTROLLER
+        * Perantara antara model dan view
+        * Mengangani pemrosesan pada aplikasi
+        * Menangani aksi dari user
